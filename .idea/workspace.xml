@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87f7b442-bec4-4d53-8cdf-a49b166ae44d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="25R43CdlHHtqhnIRnwqz2pU2KFF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Clientes" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="io.github.juliomotta.clientes.ClientesApplication" />
+      <module name="clientes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87f7b442-bec4-4d53-8cdf-a49b166ae44d" name="Default Changelist" comment="" />
+      <created>1645476363402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645476363402</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="148" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1645477077109">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="148" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1645477077109" />
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1645478644614">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1645478644614" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1645483464544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1645483464544" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1645483464544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1645483464544" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1645483464544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1645483464544" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1645483464544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1645483464544" />
+    <state x="652" y="208" key="extract.method.dialog" timestamp="1645479025125">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="652" y="208" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1645479025125" />
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1645481859169">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1645481859169" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1645476526724">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1645476526724" />
+  </component>
+</project>
