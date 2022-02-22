@@ -9,6 +9,7 @@ import java.time.LocalDate;
 
 @Entity
 @Data
+@Table(name = "reddit-servico-prestado")
 public class ServicoPrestado {
 
     @Id

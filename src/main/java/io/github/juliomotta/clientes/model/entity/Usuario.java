@@ -9,6 +9,7 @@ import javax.validation.constraints.NotEmpty;
 @Entity
 @Data
 @NoArgsConstructor
+@Table(name = "reddit-usuario")
 public class Usuario {
 
     @Id
