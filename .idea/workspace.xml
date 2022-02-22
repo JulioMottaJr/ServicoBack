@@ -3,13 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="87f7b442-bec4-4d53-8cdf-a49b166ae44d" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/io/github/juliomotta/clientes/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application-local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application-prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/io/github/juliomotta/clientes/config/AppConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/juliomotta/clientes/model/entity/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/juliomotta/clientes/model/entity/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/juliomotta/clientes/model/entity/ServicoPrestado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/juliomotta/clientes/model/entity/ServicoPrestado.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/juliomotta/clientes/model/entity/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/juliomotta/clientes/model/entity/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,22 +72,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1645478644614" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1645483464544">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1645573021040">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1645483464544" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1645483464544">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1645573021040" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1645573021040">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1645483464544" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1645483464544">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1645573021040" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1645573021039">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1645483464544" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1645483464544">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1645573021039" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1645573021040">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1645483464544" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1645573021040" />
     <state x="652" y="208" key="extract.method.dialog" timestamp="1645479025125">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
